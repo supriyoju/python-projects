@@ -1,2 +1,2 @@
 # python-projects
-programs
+print even odd within a range of numbers
